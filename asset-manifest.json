@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc1eef8d.css",
+    "main.js": "/static/js/main.b4fc3faa.js",
+    "static/media/appstore.svg": "/static/media/appstore.5304f1f8920f236d54f46275e748e50f.svg",
+    "static/media/Gurpal_Virdi.svg": "/static/media/Gurpal_Virdi.ef0a07416ca27942e2a06a83a519fc3f.svg",
+    "static/media/Matthew_Hirabayashi.svg": "/static/media/Matthew_Hirabayashi.fecd3cc02a145531ff964b28513475a2.svg",
+    "static/media/LOGO HORIZONTAL SVG.svg": "/static/media/LOGO HORIZONTAL SVG.53391f098608cfa6cc16efcbd64875ec.svg",
+    "static/media/Home Page Graphic.svg": "/static/media/Home Page Graphic.a701c39fb4d190dde56aea1091c33e8d.svg",
+    "static/media/EyeFlyMDLogo.svg": "/static/media/EyeFlyMDLogo.92ed11556c586b47244d04463fa7bef6.svg",
+    "static/media/RxSight.svg": "/static/media/RxSight.2c7947ac5b5ac8cef4dab2e69247bc37.svg",
+    "static/media/transpose tool icon.svg": "/static/media/transpose tool icon.5f6c1f250a59795887e14aebb34c6584.svg",
+    "static/media/eyelabsLogo.svg": "/static/media/eyelabsLogo.0c32526fd168cf237362fcf93b77fad4.svg",
+    "static/media/alconLogo.svg": "/static/media/alconLogo.2e856a0b33cd4e047c07efd61ca3100c.svg",
+    "static/media/JohnsonJohnsonLogo.svg": "/static/media/JohnsonJohnsonLogo.af03902d9f5ed4d752879c816073f26b.svg",
+    "static/media/vect.jpeg": "/static/media/vect.8432727dc5e8ba2142f1.jpeg",
+    "static/media/card2.svg": "/static/media/card2.ea7efb924a7ad2b7b5baef520493b352.svg",
+    "static/media/blog2.svg": "/static/media/blog2.9dd7c44e683688d7e17af5f486bab1ce.svg",
+    "static/media/card3.svg": "/static/media/card3.01a6f02e3322d03bcacc869307ed4c8e.svg",
+    "static/media/card1.svg": "/static/media/card1.e61bc4b1ea252e5224b658c6a996d804.svg",
+    "static/media/sulcus icon.svg": "/static/media/sulcus icon.03f68b9761c7474ecda087a5745252a2.svg",
+    "static/media/blog4.svg": "/static/media/blog4.a8b21e1094939e57d57263c8bf7f9042.svg",
+    "static/media/blog1.svg": "/static/media/blog1.27e20d9e478a8021685f001a60cf1650.svg",
+    "static/media/OptiCalc SVG.svg": "/static/media/OptiCalc SVG.547b6118ce01ac2a847df1fcb0832cc9.svg",
+    "static/media/instagramLogo.svg": "/static/media/instagramLogo.c160c0cd241bd902bc0500276c6e819b.svg",
+    "static/media/blog5.svg": "/static/media/blog5.99d257d82e5c41013026d63081483cd5.svg",
+    "static/media/twitter.svg": "/static/media/twitter.134c1f1267a04bda1dd99a894434edf4.svg",
+    "static/media/youtube.svg": "/static/media/youtube.98b02d81a43f1f2239be19ea68ef6a1b.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.985fad294b5fa238f316344001243b9e.svg",
+    "static/media/linkedinLogo.svg": "/static/media/linkedinLogo.fd7035773729679d03c3ca309cdbbbd4.svg",
+    "static/media/gmailLogo.svg": "/static/media/gmailLogo.45d115ba50cbb88027addeda12353299.svg",
+    "index.html": "/index.html",
+    "static/media/blogbg.svg": "/static/media/blogbg.e6db84d8179577a0edac9fda040209c4.svg",
+    "main.dc1eef8d.css.map": "/static/css/main.dc1eef8d.css.map",
+    "main.b4fc3faa.js.map": "/static/js/main.b4fc3faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1eef8d.css",
+    "static/js/main.b4fc3faa.js"
+  ]
+}
